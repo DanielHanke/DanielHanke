@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielHanke
-- 👀 I’m interested in web development, angular, front and back end 
+- 👀 I’m interested in web development: Angular, net core, React, basically full stack development
 - 🌱 I’m currently learning Angular and TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email me to danieleduardohanke@gmail.com
