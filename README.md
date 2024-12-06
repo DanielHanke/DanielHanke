@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielHanke&theme=dark" alt="DanielHanke" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielHanke&show_icons=true&theme=dark&locale=en&layout=compact" alt="DanielHanke" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=DanielHanke&show_icons=true&theme=dark&locale=en" alt="DanielHanke" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=DanielHanke&show_icons=true&theme=radical&locale=en&count_private=true" alt="DanielHanke" /></p>
 <br><br><br><br><br><br>
 
 <hr width="95%" >
