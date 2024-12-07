@@ -9,7 +9,7 @@
 <p>
   Comenzando en el 2001, con C y C++ en ambientes UNIX, comenzaban a aparecer las computadoras personales Intel Pentium. Comenzamos este camino del desarrollo del software y hoy día, seguimos con la misma curiosidad de aquel entonces, día a día aprendiendo mejores métodos, buscando nuevas herramientas y mejorando los procesos de desarrollo!
 </p>
-<p>🌱 Actualmente me desempeño como <b>full stack developer</b> para el sector industrial, pasando por programación estructurada, Objetos, Patrones MVC, MVVM, etc, seimpre buscando la mejor manera de solucionar los problemas en terminos de lo que la ciencia de la computación manejaba en cada etapa de mi carrera.</p>
+<p>🌱 Actualmente me desempeño como <b>full stack developer</b> para el sector industrial, pasando por programación estructurada, Objetos, Patrones MVC, MVVM, etc, siempre buscando la mejor manera de solucionar los problemas del cliente.</p>
 <br><br><br><br><br><br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
